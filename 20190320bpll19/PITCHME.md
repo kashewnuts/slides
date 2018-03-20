@@ -39,16 +39,15 @@ Kashun Yoshida(@kashew_nuts)
 # クライミングにおけるPython
 
 
-![climing_python](assets/images/climing_python.png)
+![climing_python](assets/images/climbing_python.png)
 
 +++
 
----
 ## Python Part1
 
 [La Sportiva Python](http://www.sportivajapan.com/product/python.html)
 
-![lasportiva_python](assets/images/lasportiva_python.png)
+![lasportiva_python](assets/images/lasportiva_python.jpg)
 
 +++
 
@@ -73,18 +72,19 @@ Kashun Yoshida(@kashew_nuts)
 ## 探したら見つかった
 
 - [山梨県 瑞牆 蛇岩](https://www.climbing-net.com/news/%E4%B8%8D%E5%8B%95%E6%B2%A2%E3%83%BB%E8%9B%87%E5%B2%A9%E3%81%A8%E5%B7%A8%E6%9C%A8%E5%B2%A9/)
-
   - [スネークピット(5.10c)]
   - [スネーククラック左(5.10d)]
   - [スネーククラック右(5.11a)]
 
-- 愛知県 豊田クライミングエリア
++++
 
+## 探したら見つかった
+
+- 愛知県 豊田クライミングエリア
   - [蛇の目 (初段)](https://www.youtube.com/watch?v=qIocT5KJQog&feature=youtu.be)
   - [大アナコンダ (二段)](https://www.youtube.com/watch?v=c_kCk3BEodw)
 
 - 三重県香落渓
-
   - [スネークマン](https://www.youtube.com/watch?v=OyVQvWLA6P8)
 
 +++
