@@ -9,6 +9,7 @@ Kashun Yoshida(@kashew_nuts)
 ## お前誰よ？
 
 - 吉田花春 ([@kashew_nuts](https://twitter.com/kashew_nuts))
+- 株式会社ビープラウド所属
 - Python&DjangoでWeb開発してます
 - プライベートではOSSのドキュメント翻訳をしたりしています
 
@@ -46,9 +47,9 @@ Kashun Yoshida(@kashew_nuts)
 
 ### 宣伝
 
-- [Pythonプロフェッショナルプログラミング第3版](https://amzn.to/2HH32mv) 重版！
+- [Pythonプロフェッショナルプログラミング第3版](https://amzn.to/2HH32mv)
   - 共著で(一部を)担当、執筆しました。
-  - 一時Amazonで開発技法の売れ筋ランキング1位獲得
+  - 一時Amazonで開発技法の売れ筋ランキング1位獲得→重版決定！
 - [DjangoではじめるPyCharm実践入門](https://www.papercall.io/talks/78688/)
   - PyConJP 2018で登壇します
   - 定番の開発環境PyCharmについて
@@ -71,7 +72,6 @@ Kashun Yoshida(@kashew_nuts)
 - 実際に使い始めてどうだったか
 - どうして執筆や登壇するまでいたったか
 - これから何をしていくか
-- まとめ
 
 ---
 
@@ -82,7 +82,7 @@ Kashun Yoshida(@kashew_nuts)
 ### Pythonとの出会い
 - Pythonと出会ったのは2010年
 - CやJava以外の言語を知りたかった
-- 当時まわりにPythonを知っている人はいない
+- まわりにPythonを知っている人はいない
 
 +++
 
@@ -104,7 +104,7 @@ Kashun Yoshida(@kashew_nuts)
 
 +++
 
-### Pythonででしかできないこと？
+### Pythonでしかできないわけじゃない
 - Web開発: PHP, Ruby
 - 機械学習、データ分析: R, SAS
 - CLI: Go
@@ -118,15 +118,15 @@ Kashun Yoshida(@kashew_nuts)
 ## Why Python? (again)
 - 自分が「こう書きたい」と思ったように書ける
 - 言語自体や界隈の雰囲気や文化が合いそうだと感じた
-- 触っていて楽しいと感じる
+- Pythonを使っていて「楽しい」と感じた
 
 ---
 
-## 実際に使い始めてどうだった？
+## 実際に使っていてどうなったか
 
 +++
 
-### Pythonを使い始めて
+### Pythonを使うようになって
 
 - Pythonで日々のタスクを自動化できて便利
 - コミュニティに参加して会社にいるだけでは会えない人に会えた
@@ -135,7 +135,7 @@ Kashun Yoshida(@kashew_nuts)
 
 +++
 
-### どうして執筆や登壇することまでできた？
+### どうして執筆や登壇することまでできたか
 - プライベートでも気になる技術があったら手を動かした
 - TwitterやBlogで発信するようにしていた
 - レベルを気にせず気になったり面白そうなイベントがあったら行っていた
@@ -154,10 +154,12 @@ Kashun Yoshida(@kashew_nuts)
 
 ### どうゆう場所(コミュニティ)にいっていたか
 - 発表系イベント: LT数十分のトークがある
-  - [PyCon JP](https://pycon.jp/2018/)
-  - [Stapy](https://startpython.connpass.com)
+  - [PyCon JP](https://pycon.jp/2018/), [Stapy](https://startpython.connpass.com), [pynyumon](https://python-nyumon.connpass.com)
 - もくもく会: 自分でやりたいことを持ち寄る
   - [pyhack](https://pyhack.connpass.com/), [mokupy](https://mokupy.connpass.com), [rettypy](https://retty.connpass.com)
+- ハンズオン:
+  -  [pycamp](http://pycamp.pycon.jp/), [pynyumon](https://python-nyumon.connpass.com)
+
 
 +++
 
@@ -176,10 +178,10 @@ Kashun Yoshida(@kashew_nuts)
 
 ---
 
-## まとめ
-- 楽しいことは継続しやすい。楽しむ仕組みづくりをしよう。
-- 自分で調べたことは発信しよう。未来の自分の助けになる。
-- 人が集まるところにいくと思わぬ出来事があることも。
+### まとめ
+- 楽しめるものは継続しやすい。
+- 取り組む理由や環境があると助けになる。
+- 手と足を動かそう。ただ参加するだけじゃもったいない。
 
 ---
 
