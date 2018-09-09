@@ -51,3 +51,7 @@
 .reveal code {
     font-family: Inconsolata, Consolas, monospace;
 }
+
+.sidebar img {
+  width: 50%;
+}
