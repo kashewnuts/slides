@@ -29,19 +29,17 @@ Kashun Yoshida(@kashew_nuts)
 
 ### connpass
 
-* Event site for building connections.
 * https://connpass.com/
 
-![connpass](assets/images/connpass.png)
+![connpass](20180917pyconjp/assets/images/connpass.png)
 
 +++
 
 ### PyQ
 
-* The best way to learn Python online.
 * https://pyq.jp/
 
-![PyQ](assets/images/pyq.png)
+![PyQ](20180917pyconjp/assets/images/pyq.png)
 
 
 +++
@@ -87,12 +85,9 @@ Kashun Yoshida(@kashew_nuts)
 - What PyCharm can do
 - Impression actually using PyCharm
 - What PyCharm does not face
-- Basic Feature
-- Django support
-- Front-end support
-- Database support
-- Remote Development
-- Testing
+- Python Basic Feature
+- Django, Front-end, Database supports
+- Remote Development, Testing
 - Things to keep in mind when using PyCharm
 
 ---
@@ -129,14 +124,11 @@ Source: https://www.jetbrains.com/pycharm/
 - Intelligent Python Assistance
 - Web Application Development
   * Django, Flask, Pyramid, JavaScript, ...
-- Scientific tools
-  - Jupyter, Numpy, matplotlib, ...
+- Scientific tools (Jupyter, Numpy, matplotlib, ...)
 - Debug, Testing, Profiling
 - VCS support (Git, Mercurial, SVN)
-- Deploy, Remote Development
-  - Vagrant, Docker, SSH
-- Database & SQL
-  - MySQL, PostgreSQL, Oracle, AWS, ...
+- Deploy, Remote Development (Vagrant, Docker, SSH)
+- Database & SQL (MySQL, PostgreSQL, Oracle, AWS, ...)
 
 +++
 
