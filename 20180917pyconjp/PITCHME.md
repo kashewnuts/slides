@@ -15,31 +15,28 @@ Kashun Yoshida(@kashew_nuts)
 
 ![kashew_nuts](assets/images/kashewnuts.png)
 
-
 ---
 
-### BeProud Inc.
+### What's BeProud？
 
 * A programmer-focused company.
-* https://www.beproud.jp/
+* Web services:
+  * [Connpass](https://connpass.com/): IT meetup platform
+  * [PyQ](https://pyq.jp/): Online Python learning
 
-![BeProud](assets/images/beproud.png)
-
-+++
-
-### connpass
-
-* https://connpass.com/
-
-![connpass](20180917pyconjp/assets/images/connpass.png)
-
-+++
-
-### PyQ
-
-* https://pyq.jp/
-
-![PyQ](20180917pyconjp/assets/images/pyq.png)
+<table border="0">
+<tr valign="middle">
+<td>
+![BeProud](assets/images/beproud-logo.png)
+</td>
+<td>
+![connpass](assets/images/connpass-logo.png)
+</td>
+<td>
+![PyQ](assets/images/pyq-logo.png)
+</td>
+</tr>
+</table>
 
 
 +++
@@ -111,8 +108,8 @@ Source: https://www.jetbrains.com/pycharm/
 
 ## Requirements, Installation and Launching
 - Hardware:
-  - 4 GB RAM minimum, 8 GB RAM recommended.
-  - 1.5 GB hard disk space + at least 1 GB for caches.
+  - RAM: 4GB minimum, 8GB recommended.
+  - 1.5GB hard disk space + at least 1GB for caches.
   - 1024x768 minimum screen resolution.
 - Software:
   - OS: Windows, macOS, Linux are suppoted
