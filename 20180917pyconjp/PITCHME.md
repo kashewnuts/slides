@@ -106,7 +106,7 @@ Source: https://www.jetbrains.com/pycharm/
 
 +++
 
-## Requirements, Installation and Launching
+## Requirements, Installation & Launching
 - Hardware:
   - RAM: 4GB minimum, 8GB recommended.
   - 1.5GB hard disk space + at least 1GB for caches.
