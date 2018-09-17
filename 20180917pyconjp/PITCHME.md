@@ -9,9 +9,9 @@ Kashun Yoshida(@kashew_nuts)
 ## Who am I？
 
 - [@kashew_nuts](https://twitter.com/kashew_nuts)
-- Web Application Developer
 - BeProud Inc.
-- Like: Python, PyCharm, Vim, Climing
+- Web Application Developer
+- Like: Python, PyCharm, Vim
 
 ![kashew_nuts](assets/images/kashewnuts.png)
 
