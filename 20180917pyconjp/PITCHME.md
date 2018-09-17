@@ -82,6 +82,7 @@ Kashun Yoshida(@kashew_nuts)
 - What PyCharm can do
 - Impression actually using PyCharm
 - What PyCharm does not face
+- DEMO
 - Python Basic Feature
 - Django, Front-end, Database supports
 - Remote Development, Testing
@@ -151,7 +152,7 @@ Source: https://www.jetbrains.com/pycharm/
 +++
 
 ## What PyCharm does not face
-- Creating a plugin (Need to write in Java)
+- Creating a plugin (Need to write in Java/Kotlin)
 - Instead of editor to edit single file.
 - How to open and close some project many times.
 
@@ -164,7 +165,7 @@ Source: https://www.jetbrains.com/pycharm/
 ## PyCharm Basic Feature
 - Python syntax highlight, code completion, definition jump supported.
 - Python 2 & 3 compatible.
-- virtualen support (also pipenv)
+- virtualenv support (also pipenv)
 - GUI package manager
 - Refactoring, Debugger, Code Inspection
 - VCS support
@@ -215,7 +216,7 @@ Source: https://www.jetbrains.com/pycharm/
 
 +++
 
-## Tesing
+## Testing
 
 - Supported: unittest, pytest, nose, doctest, tox
 - Specify test target and execute

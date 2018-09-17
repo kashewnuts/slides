@@ -6,7 +6,7 @@ Preesentation slides
 
 * Event: [PyCon JP 2018](https://pyconjp.connpass.com/event/89163/)
 * Data: 2018 Sep 17
-* Slide: [PyCharm Practical Guide starting with Django ~Djangoで始めるPyCharm入門~](https://gitpitch.com/kashewnuts/slides?p=20180917pyconjp#/)
+* Slide: [PyCharm Practical Guide starting with Django 〜Djangoで始めるPyCharm実践入門〜](https://gitpitch.com/kashewnuts/slides?p=20180917pyconjp#/)
 
 ## pynyumon #7
 
