@@ -21,13 +21,17 @@
 
 * 夏休み+代休を利用してアメリカに1週間いってきたのでそこで何してきたか
 
+![tunnel_view](20181113bpll27/assets/images/tunnel_view.JPG)
+
+---
+
 ### ヨセミテってどこ？
 
 * カリフォルニア州の中東部、シェラネバダ山脈に広がる自然公園
 * 日本人が訪れる国立公園としてはグランドキャニオンと並んで最も人気が高い
 * 公園の面積は 3081k㎡ だが、ほとんどの人がヨセミテ渓谷の 約18k㎡ に集まる
 
-<!-- TODO: 写真追加 -->
+![from_sfo_to_yosemite.png](20181113bpll27/assets/images/from_sfo_to_yosemite.png)
 
 +++
 
@@ -38,7 +42,25 @@
   * グレーシャーポイント･ツアー
 * キャンプやハイキング、ウィンタースポーツを楽しむ人も
 
-<!-- TODO: 写真追加 -->
++++
+
+### エル・キャピタン
+
+![ElCapitan](20181113bpll27/assets/images/elcapitan.JPG)
+
++++
+
+### ブライダルベール
+
+![Bridalveil](20181113bpll27/assets/images/Bridalveil_Fall.jpg)
+
+* Wikipediaより引用: 天気良すぎて滝枯れてました
+
++++
+
+### ハーフドーム
+
+![halfdome](20181113bpll27/assets/images/halfdome.JPG)
 
 +++
 
@@ -69,7 +91,7 @@
 ### 行ってきたエリア
 * ヨセミテ渓谷とひとことでいっても広い
   * Camp4: 最も有名。クライマーがキャンプ地で寝泊まりしてる。
-  * Curry Village(Half Dome Village): ハーフドームの名がついてる
+  * Half Dome Village
   * Sentinel Boulders
   * Cathedral Boulders
 * リードクライミングやビッグウォールへトライするとまた別なエリアがある
@@ -88,11 +110,13 @@
 +++
 
 ### 覚えよう！ボルダリング用語
-* グレード: 課題のむずかしさを表現。V0が6級、V3が3級、V7が初段。
+* グレード: 課題のむずかしさを表現。
+  * V0が6級、V3が3級、V7が初段。
 * ホールド: 手を引っ掛ける突起物の名称。
-* ガバ: ホールドの持ち方。ガバッと持てることから。
+* ガバ: ホールドの持ち方。ガバッと持てる。
 * ランジ: 腕を伸ばしても届かないホールドに飛びついて止めること。
-* マントル: 這い上がるときに使う。両肘を外側へ直角へ張り出すことから。
+* マントル: 這い上がるときに使う。
+  * 両肘を外側へ直角へ張り出すことから。
 
 +++
 
@@ -103,45 +127,69 @@
 * V5なのに2段階ぐらい難しく感じたり
 * V0やV1なのにぜんぜんできないこともある
 
++++
+
 ### 登ってきた壁たち
 
 +++
 
-### Camp4
+### Camp4: Midnight Lightning V8(★★★★)
 
-* Midnight Lightning V8(★★★★): 世界でもっとも有名なボルダリング課題
-  * 登れたとはいってない
-* Initial Friction V1(★★): グレードでなめてかかると痛い目を見る課題
-* The Largo Lunge V0-(★★★): ランジしてない...マントルが怖い課題
+* 世界でもっとも有名なボルダリング課題 (登れたとはいってない)
 
-<!-- TODO: 写真追加 -->
+![midnight_lightning](20181113bpll27/assets/images/)
 
 +++
 
-### Curry Village(Half Dome Village)
 
+### Camp4: The Largo Lunge V0-(★★★)
 
-* Zorro V4(★★★): ヨセミテベストにも選ばれている課題
-* Unnamed V5(★★): V5なのに名無し！広すぎて名前をつけきれないのかな
+* ランジしてない...マントルが怖い課題
 
-<!-- TODO: 写真追加 -->
-
-+++
-
-### Sentinel Boulders
-
-* No Holds Bard V7(★★★): 一手一手が超遠い。初手すら取れず。
-* Mr. Pink Eyes V0(★★★): 「これは本当にV0なのか！？」と衝撃だったライン。
-* Midget Traverse V3(★★): 10mぐらい横移動して最後にマントルなので超疲れる。
-
-<!-- TODO: 写真追加 -->
+![TheLargoLunge.jpg](20181113bpll27/assets/images/TheLargoLunge.jpg)
 
 +++
 
-### Cathedral Boulders
+### Half Dome Village: Zorro V4(★★★)
 
-* Ladder Detail V5(★★): YouTubeムーブで完登。
-* Fish Head V7(★★): 30分ではどうしようもなかった。次は落とす。
+* ヨセミテベストにも選ばれている課題
+
+<table border="0">
+<tr valign="middle">
+<td>
+![zorro.jpg](20181113bpll27/assets/images/zorro.jpg)
+</td>
+<td>
+![zorro2.jpg](20181113bpll27/assets/images/zorro2.jpg)
+</td>
+</tr>
+</table>
+
++++
+
+### Half Dome Village:  Unnamed V5(★★)
+
+* V5なのに名無し！広すぎて名前をつけきれないのかな
+
+![unnamed_v5.PNG](20181113bpll27/assets/images/unnamed_v5.PNG)
+
++++
+
+### Sentinel Boulders: No Holds Bard V7(★★★)
+
+* 一手一手が超遠い。初手すら取れず。
+
+![NoHoldsBard.JPG](20181113bpll27/assets/images/NoHoldsBard.JPG)
+
++++
+
+### その他たくさんの課題
+
+* Sentinel Boulders: Mr. Pink Eyes V0(★★★): 「これは本当にV0なのか！？」と衝撃だったライン。
+* Sentinel Boulders: Midget Traverse V3(★★): 10mぐらい横移動して最後にマントルなので超疲れる。
+* Cathedral Boulders: Ladder Detail V5(★★): YouTubeムーブで完登。
+* Cathedral Boulders: Fish Head V7(★★): 30分ではどうしようもなかった。次は落とす。
+* etc...
 
 <!-- TODO: 写真追加 -->
 
